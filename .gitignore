@@ -4,3 +4,5 @@
 *.classpath
 /bin/
 /.idea/
+/samples/micro-weather-eureka-server/out/production/classes/com/waylau/spring/cloud/weather/*.class
+/samples/micro-weather-eureka-server/out/production/classes/com/waylau/spring/cloud/weather/controller/*.class
